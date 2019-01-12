@@ -1,0 +1,19 @@
+{
+  "symbol": "AISC",
+  "address": "0x5d790fDf8Ea550a5329dE415d831C300F5fa4b7E",
+  "overview":{
+        "en": "AISC is a license award under Artificial Intelligence Storage Calculation for building global distributed Cloud Storage Cloud computing. Rewards are distributed only through official channels, which are inseparable and cannot be duplicated.",
+        "zh": "AISC是人工智能存储计算旗下用于搭建全球分布式云存储云计算的通证奖励。仅由官方渠道进行奖励发放，不可分割，不可复制。"
+  },
+  "email": "Cloudstorage@sina.com",
+  "website": "www.cloud storage.cn.com",
+  "whitepaper": "http://img.cloud storage.ink/pdf/tct-en.pdf",
+  "published_on": "2019-01-07",
+  "initial_price":{
+        "ETH":"0.02 ETH"
+  },
+  "links": {
+    "twitter": "twitter.com/CloudStorage",
+    "facebook": "www.facebook.com/token.cloudstorage"
+  }
+}
